@@ -1,0 +1,60 @@
+$orange: rgb(255, 94, 0);
+
+p{
+    font-weight: 0.9em;
+    margin: 0;
+}
+
+.page-container{
+    display: grid;
+    margin: 0 auto;
+}
+
+.title-container{
+    background-color: $orange;
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+    h2, h6{
+        font-weight: bold;
+    }
+}
+
+.input-container{
+    display: flex;
+}
+
+.search-container{
+    background-color: $orange; 
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.input-and-search-container{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 2em 0;
+}
+
+.results-container{
+    background-color: #ececec;
+}
+
+// MEDIA
+@media screen and (min-width: 768px){
+    .page-container{
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .page-container{
+        width: 50%;
+    }
+}
