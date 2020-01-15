@@ -2,6 +2,8 @@
 
 > Find recipes based on your ingredients
 
+Build Time : 2hr 30min
+
 ## Build Setup
 
 ``` bash
