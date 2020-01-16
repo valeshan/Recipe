@@ -4,6 +4,9 @@
 
 Build Time : 2hr 30min
 
+
+For use, after installing dependencies, visit extension '/recipes/chicken' to get started.
+
 ## Build Setup
 
 ``` bash
