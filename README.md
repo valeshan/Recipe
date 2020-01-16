@@ -2,6 +2,11 @@
 
 > Find recipes based on your ingredients
 
+Build Time : 2hr 30min
+
+
+For use, after installing dependencies, visit 'localhost:3000/recipes/chicken' to get started.
+
 ## Build Setup
 
 ``` bash
